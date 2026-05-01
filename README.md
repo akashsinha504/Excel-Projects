@@ -1,63 +1,39 @@
-Project Overview
+#  Electric Vehicle (EV) Sales Dashboard – Excel
 
-This project analyzes global Electric Vehicle (EV) adoption trends using Excel.
+##  Problem Statement
+Analyze global Electric Vehicle (EV) adoption trends to identify growth patterns, market leaders, and regional performance.
 
-The dashboard provides insights into:
+---
 
-EV sales growth
+##  Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Charts & Dashboard Design
+- Slicers for interactivity
 
-Market share trends
+---
 
-Charging infrastructure expansion
+##  Dashboard Preview
+![Dashboard](Screenshot 2026-03-03 153614.png)
 
-EV range improvements
+---
 
-Regional comparisons
+##  Key Insights
+- EV sales have shown consistent growth over the years, indicating strong market adoption.
+- Certain regions dominate EV adoption, contributing the majority of total sales.
+- Market share is heavily concentrated among a few leading manufacturers.
+- Seasonal trends suggest higher sales in specific months.
 
-Tools Used
+---
 
-Microsoft Excel
+##  What I Learned
+- Creating interactive dashboards using slicers
+- Cleaning and analyzing real-world datasets
+- Presenting insights in a business-friendly way
 
-Pivot Tables
+---
 
-Power Query
-
-Slicers
-
-Data Visualization Techniques
-
-Key Insights
-
-EV sales show exponential growth after 2020.
-
-Fast charger share positively correlates with EV adoption.
-
-Countries with higher GDP per capita show stronger EV penetration.
-
-Dataset Includes
-
-EV Sales
-
-Petrol & Diesel Sales
-
-Charging Stations
-
-GDP per capita
-
-CO2 Emissions
-
-EV Subsidy Data
-
-Urban Population %
-
-Skills Demonstrated
-
-Data Cleaning
-
-Data Modeling
-
-KPI Design
-
-Executive-Style Visualization
-
-Business Insight Generation
+##  Files in Repository
+- Excel Dashboard File
+- Dashboard Screenshot
+- README Documentation
